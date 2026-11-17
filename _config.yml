@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Lucy Webster"
 title_separator          : "-"
 name                     : &name "Lucy Webster"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Lucy Webster - PhD researcher in atmospheric chemistry at the University of York, working on air quality, Net Zero policy and inequalities"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://lucy-web-0812.github.io/lucy-web-0812.academicpages.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Lucy Webster"
   pronouns         : "She/Her"  
-  bio              : "PhD Student"
-  location         : "UK"
-  employer         : "University of York"
+  bio              : "PhD researcher in atmospheric chemistry: air quality, Net Zero and inequalities"
+  location         : "York, UK"
+  employer         : "Wolfson Atmospheric Chemistry Laboratories, University of York"
   uri              : # URL
   email            : "lucy.webster@york.ac.uk" 
 
@@ -87,7 +87,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  inreview:
+    title: 'In Review'
   conferences:
     title: 'Conference Papers'
 
