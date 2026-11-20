@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+This website is very much under development - let me know what does not work!
+
 I'm a final-year PhD candidate at the [Wolfson Atmospheric Chemistry Laboratories](https://www.york.ac.uk/chemistry/research/wacl/), University of York (thesis submission expected January 2027). My research applies large-scale statistical analysis and spatio-temporal modelling to **air pollution, decarbonisation policy and inequalities**.
 
-My thesis, *Air Quality Implications from Net Zero Policies and Pathways in the UK*, asks a simple question: as the UK decarbonises, who breathes cleaner air, and who gets left behind?
 
 Research highlights
 ======
